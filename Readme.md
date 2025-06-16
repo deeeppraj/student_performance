@@ -39,3 +39,8 @@ Install required packages using:
 
 ```bash
 pip install -r requirements.txt
+
+
+'''
+Hosted on : Azure
+website : https://student-performance-epe5gsatfxafbsaq.centralus-01.azurewebsites.net/predictdata
